@@ -473,6 +473,7 @@ def render_page() -> Page:
     draw.text((20, y + 33), f"TRUTH: {TRUTH}", font=page.get_font("sans_7"), fill="#f8f1e2")
 
     print("ALL TEXT PLACED 50")
+    print("DECKS COMPLETE 20")
     return page
 
 if __name__ == "__main__":
